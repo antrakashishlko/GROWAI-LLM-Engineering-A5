@@ -62,7 +62,7 @@ It then runs the same workflow using LlamaIndex and displays a framework compari
 
 ## Project Files
 
-- `multi_step_pipeline.py` — Main Python implementation containing the LangChain and LlamaIndex pipelines.
+- `pipeline.py` — Main Python implementation containing the LangChain and LlamaIndex pipelines.
 - `requirements.txt` — Required Python dependencies.
 - `.gitignore` — Files and folders excluded from Git tracking.
 
