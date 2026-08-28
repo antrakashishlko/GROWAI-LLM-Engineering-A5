@@ -41,9 +41,9 @@ ollama pull qwen3:0.6b
 
 1. Clone this repository.
 2. Create and activate a Python virtual environment.
-3. Install the required dependencies using <mark>requirements.txt</mark>.
+3. Install the required dependencies using `requirements.txt`.
 4. Make sure Ollama is running.
-5. Make sure the "qwen3:0.6b" model is available locally.
+5. Make sure the `qwen3:0.6b` model is available locally.
 
 ## How to Run
 
