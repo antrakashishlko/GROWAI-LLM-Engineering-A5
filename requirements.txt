@@ -1,5 +1,7 @@
 langchain
-langchain-ollama
 langchain-core
+langchain-ollama
+langchain-text-splitters
 llama-index
 llama-index-llms-ollama
+pydantic
